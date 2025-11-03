@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://loukmanissaka.github.io/portofolio/sitemap.xml
